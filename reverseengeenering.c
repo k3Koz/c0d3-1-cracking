@@ -16,7 +16,7 @@ int main(void){
 	int b;
 	printf("\t\t\t%i", a);
 	printf("\n\nBienvenido al juego, a continuacion decide una accion a realizar: ");
-	printf("\n\Opcion 1: Derrotar al dragon");
+	printf("\n\nOpcion 1: Derrotar al dragon");
 	printf("\n\nOpcion 2: Rendirse ante el dragon");
 	scanf("\n%i", &b);
 	switch(b){
